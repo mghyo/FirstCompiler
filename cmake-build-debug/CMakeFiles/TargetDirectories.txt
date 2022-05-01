@@ -1,0 +1,4 @@
+C:/Users/Seagull/Desktop/gh-repos/code/FirstCompiler-master/cmake-build-debug/CMakeFiles/phase2.dir
+C:/Users/Seagull/Desktop/gh-repos/code/FirstCompiler-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Seagull/Desktop/gh-repos/code/FirstCompiler-master/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/Seagull/Desktop/gh-repos/code/FirstCompiler-master/cmake-build-debug/CMakeFiles/edit_cache.dir

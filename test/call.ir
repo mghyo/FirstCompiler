@@ -1,0 +1,13 @@
+#start_function foo
+int foo():
+  return, 42, , 
+#end_function foo
+
+#start_function main
+void main():
+int-list: $t0
+float-list: 
+  callr,$t0,foo, ,
+  call, printi, $t0
+  return,,,
+#end_function main

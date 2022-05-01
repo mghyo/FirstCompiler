@@ -1,0 +1,7 @@
+main let
+  var i : int := 0;
+in
+begin
+  i := 40 + 2;
+  printi(i);
+end

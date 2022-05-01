@@ -1,0 +1,9 @@
+#start_function main
+void main():
+int-list: 
+float-list: $temp1, i 
+  add, 40.0, 2.0, $temp1
+  assign, i, $temp1, 
+  call, printf, i
+  return,,,
+#end_function main

@@ -1,0 +1,12 @@
+#start_function main
+void main():
+int-list: var,X[100]
+float-list: 
+    assign,X,100,10
+    array_store,X,3,5
+    array_load,var,X,0
+    call,printi,var,
+    array_load,var,X,0
+    call,printi,var,
+    return,,,
+#end_function main

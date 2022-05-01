@@ -1,0 +1,15 @@
+#start_function main
+void main():
+int-list: $t0, i, j
+float-list: 
+  assign, i, 5, 
+  brleq, i, 42, label0
+  assign, j, 0
+  goto, label1, ,
+label0:
+  assign, j, 1, 
+  goto, label1, , 
+label1:
+  call, printi, j
+  return,,,
+#end_function main

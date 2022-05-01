@@ -1,0 +1,9 @@
+main
+let
+  type ArrayInt = array [100] of int;
+  var X : ArrayInt := 10;
+in
+begin
+  X[0] := 42;
+  printi(X[0]);
+end
